@@ -45,8 +45,8 @@ pwimg = "https://graph.org/file/8add8d382169e326f67e0-3bf38f92e52955e977.jpg"
 cpimg = "https://graph.org/file/5ed50675df0faf833efef-e102210eb72c1d5a17.jpg"
 zipimg = "https://i.postimg.cc/C5T2SN20/photo-2025-04-02-18-19-12.jpg"
 
-watermark_text = "🇰 🇦 🇱 🇻 🇮 🇳  🐺"
-credit =("🇰 🇦 🇱 🇻 🇮 🇳  🐺") 
+watermark_text = "🅢🅐🅚🅢🅗🅐🅜™"
+credit =("🅢🅐🅚🅢🅗🅐🅜™") 
 OWNER = int(os.environ.get("OWNER",5435086550))
 try: 
     ADMINS=[5435086550] 
@@ -157,27 +157,6 @@ image_urls = [
     "https://i.ibb.co/yc6PJt3z/IMG-20250411-124654-322.jpg",
     "https://i.ibb.co/ks7Jh7jz/IMG-20250411-124658-596.jpg",
     "https://i.ibb.co/FLXXjwFc/IMG-20250411-124702-194.jpg",
-    "https://i.ibb.co/DPw44rXD/IMG-20250411-124710-456.jpg",
-    "https://i.ibb.co/pvwZY9Tw/IMG-20250411-124717-700.jpg",
-    "https://i.ibb.co/8LBBQ9q8/IMG-20250411-124722-649.jpg",
-    "https://i.ibb.co/rKbh9YXy/IMG-20250411-124726-319.jpg",
-    "https://i.ibb.co/LDMGhcvS/IMG-20250411-124739-006.jpg",
-    "https://i.ibb.co/hRg4Vv2F/IMG-20250411-124753-057.jpg",
-    "https://i.ibb.co/r2mFQn4n/IMG-20250411-124756-483.jpg",
-    "https://i.ibb.co/VY7js3yz/IMG-20250411-125632-718.jpg",
-    "https://i.ibb.co/zWxBtgFt/IMG-20250411-125637-024.jpg",
-    "https://i.ibb.co/Pzwn1kbS/IMG-20250411-125640-439.jpg",
-    "https://i.ibb.co/Ps2T00D1/IMG-20250411-125725-177.jpg",
-    "https://i.ibb.co/YBS8y8bL/IMG-20250411-125729-949.jpg",
-    "https://i.ibb.co/NRsWK4B/IMG-20250411-125741-113.jpg",
-    "https://i.ibb.co/yn2p3HyG/IMG-20250411-125744-184.jpg",
-    "https://i.ibb.co/n8PtgGjV/IMG-20250411-125754-702.jpg",
-    "https://i.ibb.co/nNhjLd9s/IMG-20250411-125801-099.jpg",
-    "https://i.ibb.co/XxKJDzJS/IMG-20250411-125815-829.jpg",
-    "https://i.ibb.co/SwLJZBDj/IMG-20250411-125823-235.jpg",
-    "https://i.ibb.co/yndPHBNC/IMG-20250411-125826-345.jpg",
-    "https://i.ibb.co/TxC4V0CD/IMG-20250411-125844-807.jpg",
-    "https://i.ibb.co/Rk074wny/IMG-20250411-125858-873.jpg",
     "https://i.ibb.co/B2b0yfwW/IMG-20250411-125901-589.jpg",
     "https://i.ibb.co/C5smTsZd/IMG-20250411-125919-579.jpg",
     "https://i.ibb.co/tpkmMfGw/IMG-20250411-130536-966.jpg",
